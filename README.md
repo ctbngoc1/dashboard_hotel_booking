@@ -6,7 +6,7 @@ This project presents an interactive dashboard for analyzing hotel booking infor
 
 ## Data
 
-The dashboard was built using a hotel booking dataset collected for academic purposes. The dataset contains temporal, geographic, pricing, and hotel-related features (*e.g., check-in/check-out dates, room type, rating, distance from city center, price*), covering 25 provinces in Vietnam from October 7, 2023 to December 26, 2023. Due to data usage and privacy restrictions, the dataset can't be shared publicly.
+The dashboard was built using a hotel booking dataset collected for academic purposes. The dataset contains temporal, geographic, pricing, and hotel-related features (*e.g., check-in/check-out dates, room type, rating, distance from city center, price*), covering 25 provinces in Vietnam from October 7, 2023 to December 26, 2023. The dataset isn't available publicly.
 
 ## Methods
 
