@@ -18,13 +18,13 @@ Selecting a province in the map or the bar chart of the Summary page navigates u
 
 ## Results
 
-![***Figure 1:** Summary page*](images/summary.jpg "Summary page"){width="853"}
+![***Figure 1:** Summary page*](images/summary.jpg "Summary page")
 
 The dashboard reveals clear geographic and temporal patterns in hotel availability and pricing across 25 provinces in Vietnam. Major tourism and urban centers — including Ho Chi Minh City, Hanoi, Da Nang, Ba Ria–Vung Tau, and Lam Dong — have the highest concentration of hotels, while less tourism-oriented provinces have substantially fewer accommodations. Average room prices are highest on Saturdays, whereas prices on other weekdays remain relatively similar, indicating strong weekend demand effects.
 
 Provincial comparisons show substantial variation in pricing levels. Binh Thuan exhibits the highest average room prices overall, while Cao Bang has the lowest. Weekend date filters consistently highlight Ba Ria–Vung Tau as the most expensive destination, reflecting its popularity as a short-distance weekend getaway from Ho Chi Minh City. Unlike most provinces, Ba Ria–Vung Tau displays a pronounced Saturday price spike, with average prices nearly doubling compared to midweek average prices.
 
-![***Figure 2:** Detail page of Ba Ria - Vung Tau*](images/detail.jpg "Detail page of Ba Ria - Vung Tau"){width="850"}
+![***Figure 2:** Detail page of Ba Ria - Vung Tau*](images/detail.jpg "Detail page of Ba Ria - Vung Tau")
 
 A detailed analysis of Ba Ria–Vung Tau from October 14, 2023 to October 15, 2023 illustrates how pricing varies by hotel characteristics. Higher-rated hotels tend to command higher average prices, while mid-range ratings account for the largest share of available hotels. Villas are the most expensive room type, whereas double rooms are the most affordable.
 
