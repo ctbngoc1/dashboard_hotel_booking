@@ -4,7 +4,7 @@
 
 This project presents an interactive dashboard for analyzing hotel booking information from multiple provinces in Vietnam as part of a university course group assignment. It enables exploratory analysis of booking trends over time, as well as the geographic distribution, pricing patterns, and other characteristics of hotels across Vietnam. The dashboard was developed using Tableau Desktop.
 
-[View Dashboard](https://public.tableau.com/views/HotelBookingDashboard_17686358051070/Summary){.uri}
+[View Dashboard](https://public.tableau.com/views/HotelBookingDashboard_17686358051070/Summary) 
 
 ## Data
 
