@@ -30,7 +30,7 @@ Provincial comparisons show substantial variation in pricing levels. Binh Thuan 
 
 ***Figure 2:** Detail page of Ba Ria - Vung Tau*
 
-A detailed analysis of Ba Ria-Vung Tau from October 14, 2023 to October 15, 2023 illustrates how pricing varies by hotel characteristics. Higher-rated hotels tend to command higher average prices, while mid-range ratings account for the largest share of available hotels. Villas are the most expensive room type, whereas double rooms are the most affordable.
+A detailed analysis of Ba Ria-Vung Tau from October 14, 2023 to October 15, 2023 illustrates how pricing varies by hotel characteristics. Higher-rated hotels tend to command higher average prices, while mid-range ratings account for the largest share of available hotels. Among the top 5 room types in the province, villas are the most expensive, whereas double rooms are the most affordable.
 
 *Limitations:*
 
